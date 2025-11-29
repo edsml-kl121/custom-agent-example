@@ -1,0 +1,19 @@
+{
+  "name": "photo-albums",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^7.2.4"
+  },
+  "dependencies": {
+    "better-sqlite3": "^12.5.0",
+    "eslint": "^9.39.1",
+    "vitest": "^4.0.14"
+  }
+}
